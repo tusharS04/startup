@@ -2,7 +2,7 @@
 
 Create a project using this example:
 
--npx thirdweb create --template vite-javascript-starter
+- npx thirdweb create --template vite-javascript-starter
 
 
 You can start editing the page by modifying `src/main.jsx`. The page auto-updates as you edit the file.
@@ -15,7 +15,7 @@ this is necessary for our [hooks](https://portal.thirdweb.com/react) and
 
 Deploy a copy of your application to IPFS using the following command:
 
--yarn deploy
+- yarn deploy
 
 
 ## Learn More
